@@ -208,9 +208,3 @@ Use the `\certificate` command to list your credentials.
     \printbibliography[heading=none]
 \end{LTR}
 ```
-
-## License
-
-The LaTeX class file _yaac-another-awesome-cv_ is published under the [LPPL Version 1.3c](https://www.latex-project.org/lppl.txt).  
-All content files are published under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-```
