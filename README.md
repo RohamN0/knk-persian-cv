@@ -21,7 +21,7 @@ More information about the original Alessandro Plasmati template can be found he
 
 | Page 1 | Page 2 |
 |:---:|:---:|
-| ![Résumé](example/preview/cv1-alternative.jpeg) | ![Résumé](example/preview/cv2-alternative.jpeg) |
+| ![Résumé](example/preview/cv1-alternative.jpg) | ![Résumé](example/preview/cv2-alternative.jpg) |
 
 ## How to use **KNK Persian CV** LaTeX class
 
